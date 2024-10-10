@@ -16,7 +16,7 @@ You can:
 
 - **Get all animals of a given species**
   - **Method**: GET
-  - **Endpoint**: `/animals/search/{species}`
+  - **Endpoint**: `/animals/search/{class}`
   - **Example**: `http://localhost:8080/animals/search/Mammal`
 
 - **Get animals whose name contains a string**
